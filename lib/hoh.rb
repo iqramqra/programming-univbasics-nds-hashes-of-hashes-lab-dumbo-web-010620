@@ -32,7 +32,7 @@
 
 def naming_system
   life={
-    label:
+    label =>
   }
   # Remember:
   #  Kingdom

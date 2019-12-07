@@ -31,7 +31,9 @@
 # }
 
 def naming_system
-  
+  life{
+    
+  }
   # Remember:
   #  Kingdom
   #  Phylum

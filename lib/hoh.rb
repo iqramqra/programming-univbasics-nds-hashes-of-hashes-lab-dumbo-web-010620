@@ -32,7 +32,7 @@
 
 def naming_system
   life={
-    :label => "Kingdom", :sub_category => {:label => "Phylum"}
+    :label => "Kingdom", :sub_category => {:label => "Phylum",}
   }
   # Remember:
   #  Kingdom

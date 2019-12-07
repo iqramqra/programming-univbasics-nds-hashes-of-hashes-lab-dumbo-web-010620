@@ -31,6 +31,7 @@
 # }
 
 def naming_system
+  kindom {:phylum => Class}
   # Remember:
   #  Kingdom
   #  Phylum
